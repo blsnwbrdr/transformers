@@ -1,0 +1,3 @@
+# Transformers
+
+Summon your inner Transformer. The program matches your birth month with a Transformer and displays the associated information. It is written in Javascript with just a tad of HTML and CSS to make it look pretty. Find your inner Transformer...
